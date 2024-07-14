@@ -1,6 +1,6 @@
 package org.example;
 
-public class FirstClient {
+public class TestClient {
     public static void main(String[] args) {
             Client user1 = new Client();
             user1.startChat();
